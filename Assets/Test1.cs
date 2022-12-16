@@ -7,7 +7,7 @@ public class Test1 : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        float num;
+        long num;
         num = 1234;
     }
 
